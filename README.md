@@ -13,3 +13,7 @@ The SVHN dataset contains over 600,000 labeled digits cropped from street level 
 ----------------
 
 Build a feed foward neural network model that can identify the digits in the images.
+
+
+## Here is a link to the dataset
+https://www.kaggle.com/datasets/sasha18/street-view-house-nos-h5-file?resource=download
